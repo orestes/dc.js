@@ -134,6 +134,7 @@ declare namespace dc {
         minWidth: IGetSet<number, T>;
         minHeight: IGetSet<number, T>;
         dimension: IGetSet<any, T>;
+        useViewBox: IGetSet<any, T>;
         data: IGetSetComputed<(group: any) => Array<any>, Array<any>, T>;
         group: IGetSet<any, T>;
         ordering: IGetSet<Accessor<any, any>, T>;
