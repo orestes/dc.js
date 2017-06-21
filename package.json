@@ -16,6 +16,7 @@
   ],
   "homepage": "http://dc-js.github.io/dc.js/",
   "bugs": "https://github.com/dc-js/dc.js/issues",
+  "types": "index.d.ts",
   "author": {
     "name": "Nick Zhu",
     "url": "http://nzhu.blogspot.ca/"
